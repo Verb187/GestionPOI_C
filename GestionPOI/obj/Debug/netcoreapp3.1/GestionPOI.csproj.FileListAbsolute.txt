@@ -1,0 +1,14 @@
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\obj\Debug\netcoreapp3.1\GestionPOI.csproj.AssemblyReference.cache
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\obj\Debug\netcoreapp3.1\GestionPOI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\obj\Debug\netcoreapp3.1\GestionPOI.AssemblyInfoInputs.cache
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\obj\Debug\netcoreapp3.1\GestionPOI.AssemblyInfo.cs
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\obj\Debug\netcoreapp3.1\GestionPOI.csproj.CoreCompileInputs.cache
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\bin\Debug\netcoreapp3.1\GestionPOI.exe
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\bin\Debug\netcoreapp3.1\GestionPOI.deps.json
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\bin\Debug\netcoreapp3.1\GestionPOI.runtimeconfig.json
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\bin\Debug\netcoreapp3.1\GestionPOI.runtimeconfig.dev.json
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\bin\Debug\netcoreapp3.1\GestionPOI.dll
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\bin\Debug\netcoreapp3.1\GestionPOI.pdb
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\obj\Debug\netcoreapp3.1\GestionPOI.dll
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\obj\Debug\netcoreapp3.1\GestionPOI.pdb
+C:\Users\3asba\source\repos\GestionPOI\GestionPOI\obj\Debug\netcoreapp3.1\GestionPOI.genruntimeconfig.cache
